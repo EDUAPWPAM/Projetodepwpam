@@ -10,7 +10,7 @@ const Menu = props => (
                     <Link to="/">Home</Link>
                 </li>
                 <li> 
-                    <Link to="/Noticia/123">Notícia</Link>
+                    <Link to="/Noticia">Notícia</Link>
                 </li>
                 <li> 
                     <Link to="/Comunidade">Comunidade</Link>
