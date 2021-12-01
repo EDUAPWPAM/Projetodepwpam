@@ -1,7 +1,7 @@
 import React from "react"
 import { useParams } from 'react-router-dom'
 
-const Conteudo01 = props => {
+const Noticia = props => {
 
     const { usuario } = useParams()
 
@@ -13,4 +13,4 @@ const Conteudo01 = props => {
     )
 }
 
-export default Conteudo01
+export default Noticia
