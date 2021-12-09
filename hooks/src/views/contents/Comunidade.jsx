@@ -21,6 +21,7 @@ const Comunidade = props => (
         <input type="reset" value="Limpar"></input>
         &nbsp;
         <input type="submit" value="Confirmar"></input>
+        
     </label>  
     </form>
     <br></br>
@@ -30,7 +31,7 @@ const Comunidade = props => (
     <label>
         <textarea id="textarea" name="textarea " 
         required="required" rows="15" cols="60" 
-        placeholder="Deixe aqui sua mensagem aqui." autofocus=""></textarea>
+        placeholder="Deixe aqui sua mensagem aqui." autofocus="" ></textarea>
         <br></br>
         <input type="reset" value="Limpar"></input>
         &nbsp;

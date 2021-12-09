@@ -5,6 +5,7 @@ const Noticia = props => (
 
     <div>
             <h1>Notícias</h1>
+            
         </div>
 )
 
