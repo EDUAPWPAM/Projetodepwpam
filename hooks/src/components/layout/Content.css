@@ -2,7 +2,20 @@
     display: flex;
     flex: 1;
     justify-content: center;
-    background-color: black;
+    background-color: rgb(24, 27, 29);
     color: white;
     padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+span {
+    text-decoration: underline;
+    
+}
+
+p{
+    text-align: justify;
 }
