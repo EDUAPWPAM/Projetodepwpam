@@ -1,6 +1,6 @@
 .Content {
     display: flex;
-    flex: 1;
+    flex: 2;
     justify-content: center;
     background-color: rgb(35, 39, 42);
     color: white;
@@ -13,7 +13,6 @@ h1{
 
 span {
     text-decoration: underline;
-    
 }
 
 p{
