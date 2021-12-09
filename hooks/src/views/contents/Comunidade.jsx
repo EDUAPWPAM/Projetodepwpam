@@ -33,9 +33,9 @@ const Comunidade = props => (
         required="required" rows="15" cols="60" 
         placeholder="Deixe aqui sua mensagem aqui." autofocus="" ></textarea>
         <br></br>
-        <input type="reset" value="Limpar"></input>
+        <input type="reset" value="Limpar"/>
         &nbsp;
-        <input type="submit" value="Confirmar"></input>
+        <input type="submit" value="Confirmar"/>
     </label>
     </form>
     
