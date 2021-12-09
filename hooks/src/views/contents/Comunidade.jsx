@@ -5,7 +5,7 @@ const Comunidade = props => (
     <div>
         
         <h1>Comunidade</h1>
-        <p>Aqui serão realizados aberturas de pedidos para o site ou duvidas da matéria</p>
+        <h4>Aqui serão realizados aberturas de pedidos para o site ou duvidas da matéria</h4>
         <br></br>
         <br>
         </br>
