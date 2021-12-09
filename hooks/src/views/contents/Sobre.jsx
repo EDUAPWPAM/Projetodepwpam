@@ -11,8 +11,9 @@ const Sobre = props => (
         <br></br>
         <hr></hr>
         <p>Para poder saber mais sobre a escola e sobre nossa "fa <span>MI</span> lia" acesse:</p>
-        <p><a href="https://www.etechortolandia.com.br/">Etec Hortolândia</a></p>  
-        <p><a href="https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=31">Vestibulinho Hortolândia</a></p>
+        <p>Site Etec Hortolândia: <a href="https://www.etechortolandia.com.br/">Etec Hortolândia</a></p>  
+        <p>Site Vestibulinho: <a href="https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=31">Vestibulinho Hortolândia</a></p>
+        <p>IG: <a href="https://www.instagram.com/etecdehortolandia/">@etechortolandia</a></p>
     </div>
 )
 
