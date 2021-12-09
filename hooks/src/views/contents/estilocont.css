@@ -1,0 +1,45 @@
+*{ margin: 0 px;
+    padding: 0 px;
+    }
+    
+    
+    body{  background-color:#808080;    
+
+}
+
+h1{font-family:Times New Roman;
+          font-size: 30px;
+          text-align: center;
+}
+form{  margin: 50px;
+               padding:10px;
+}
+label{font-family: Times New Roman;
+             font-size:18px;
+              color: #FFFFFF;
+              text-align: left;
+              line-height  : 10px;
+}
+#text1 {font-family: Times New Roman ; 
+               font-size:15px;
+                background-color: #ffffff;
+                 text-align: left;
+                 line-height  : 10px;
+    }
+   #text2 {font-family: Times New Roman;
+               font-size:15px;
+               background-color: #ffffff;
+                text-align: left;
+                line-height  : 10px;
+    }   
+   
+#textarea {resize: none;
+font-family:Times New Roman;
+background-color:#ffffff;
+}
+h5{font-family: Ms Trebuchet;
+          font-size:  10px;
+          text-align: center;
+          text-decoration: none;
+          font-weight: bold;
+}
