@@ -9,7 +9,6 @@ import notamistoso from '../../views/contents/notamistoso'
 
 
 
-
 const Content = props => (
     <main className="Content">
         <Switch>
