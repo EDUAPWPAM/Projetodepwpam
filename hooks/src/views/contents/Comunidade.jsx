@@ -25,7 +25,6 @@ const Comunidade = props => (
     </label>  
     </form>
     <br></br>
-    <br></br>
 
     <form>
     <label>
