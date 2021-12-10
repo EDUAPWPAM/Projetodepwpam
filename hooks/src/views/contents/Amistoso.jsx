@@ -7,7 +7,7 @@ const Amistoso = props => (
         <p>O Jogo que ocorreru na manhã do dia 24 de novembro de 2021 tinha como grande atração dois fatores,
              um deles era a grande e apaixonada torcida do MA, a outra, a grande rivalidade que estes dois cursos têm entre sí.
         </p>
-
+        
         <p>Extra campo não se teve discussão, com certeza o dia do MA achava com todas as esperanças que finalmente 
             conseguiriam ganhar de seu grande carrasco, sua torcida foi a mais animada e mais organizada em termos de fazer a grande 
             quadra um grande calderão, mas com tudo, eles não esperavam que os jogadores do DS estariam do mesmo jeito. O primeiro tempo
