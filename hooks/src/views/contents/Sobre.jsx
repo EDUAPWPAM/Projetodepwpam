@@ -4,7 +4,7 @@ const Sobre = props => (
     <div>
         <h1>Sobre a página</h1>
 
-        <p>Nós somos a rede de notícias <span>EXPECÍFICAS</span> do curso de 
+        <p>Nós somos a rede de notícias <span>ESPECÍFICAS</span> do curso de 
         Ds (antigo MI) da escola Etec Hortolândia, aqui informaremos você, aluno(a), sobre possiveis
         novos amistosos, atualizações sobre salas e professores e futuros eventos destinados ao curso!</p>
         <br></br>
