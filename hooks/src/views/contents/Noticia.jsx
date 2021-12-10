@@ -1,6 +1,7 @@
 import React from "react"
 import { useParams } from 'react-router-dom'
 import styles from '../../views/contents/estilonot.css';
+import Amistoso from "./Amistoso";
 
 const Noticia = props => (
 
@@ -13,7 +14,7 @@ const Noticia = props => (
                     <p> Amistoso entre DS x MA acaba em 7x0 para o time da informática
                          em um jogo humilhante para a torcida de administração</p>
                     
-                <form action="'../../views/contents/notamistoso'">
+                <form action="Amistoso">
                     <input type="submit" value="Veja mais detalhes." />
                 </form>
                 </div>
