@@ -1,5 +1,5 @@
 import React from "react"
-<link rel="stylesheet" type="text/css" href="estilocont.css"></link>
+
 
 const Comunidade = props => (
     <div>

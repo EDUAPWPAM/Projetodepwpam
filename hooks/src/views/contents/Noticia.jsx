@@ -1,5 +1,6 @@
 import React from "react"
 import { useParams } from 'react-router-dom'
+import styles from '../../views/contents/estilonot.css';
 
 const Noticia = props => (
 
@@ -7,11 +8,11 @@ const Noticia = props => (
             <h1>Notícias</h1>
             <br></br>
             <br></br>
-            <form action="http://google.com">
-                <label>
-                <input type="submit" value="Clique e veja mais sobre o assunto"  />
-                </label>
-            </form>
+            <div id= "conteudo">
+                <div class="artigo">
+                    <p> Amistoso entre DS x MA acaba em 7x0 para o time da informática em um jogo humilhante para a torcida de administração</p>
+                </div>
+            </div>
         </div>
 )
 
