@@ -5,7 +5,6 @@ import Home from '../../views/contents/Home'
 import Noticia from '../../views/contents/Noticia'
 import Comunidade from '../../views/contents/Comunidade'
 import Sobre from '../../views/contents/Sobre'
-import notamistoso from '../../views/contents/notamistoso'
 
 
 
@@ -23,10 +22,6 @@ const Content = props => (
             </Route>
             <Route path="/Sobre">
                 <Sobre />
-            </Route>
-
-            <Route path="/notamistoso">
-                <notamistoso />
             </Route>
 
         </Switch>
